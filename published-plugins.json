@@ -1,32 +1,3 @@
 {
-  "plugins": [
-    {
-       "id":"kybmol30",
-       "decoderType":"block",
-       "networkMain":true,
-       "networkTest":true,
-       "networkSTN":false,
-       "typeSearch":false,
-       "name":"block test",
-       "website":"sdsadasd",
-       "iconUrl":"asdasda",
-       "webHook":"https://classic.whatsonchain.com/",
-       "hashPreview":"213123123123",
-       "voutPreview":""
-    },
-    {
-       "id":"kyj0t74g",
-       "decoderType":"data",
-       "networkMain":true,
-       "networkTest":true,
-       "networkSTN":false,
-       "typeSearch":false,
-       "name":"data test",
-       "website":"kjhkjh",
-       "iconUrl":"asdasd",
-       "webHook":"https://classic.whatsonchain.com/{tx}",
-       "hashPreview":"213123123123",
-       "voutPreview":"0"
-    }
- ]
+  "plugins": []
 }
