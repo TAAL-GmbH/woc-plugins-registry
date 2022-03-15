@@ -10,7 +10,7 @@
        "name":"block test",
        "website":"sdsadasd",
        "iconUrl":"asdasda",
-       "webHook":"http://www.fish.com",
+       "webHook":"https://www.fish.com",
        "hashPreview":"213123123123",
        "voutPreview":""
     },
@@ -24,7 +24,7 @@
        "name":"data test",
        "website":"kjhkjh",
        "iconUrl":"asdasd",
-       "webHook":"http:///www.fish.com/{tx}",
+       "webHook":"https:///www.fish.com/{tx}",
        "hashPreview":"213123123123",
        "voutPreview":"0"
     }
