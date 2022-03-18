@@ -7,10 +7,10 @@
          "networkTest":true,
          "networkSTN":false,
          "typeSearch":false,
-         "name":"'Bico decoder",
+         "name":"Bico decoder",
          "website":"https://bico.media/",
          "iconUrl":"https://avatars.githubusercontent.com/u/47243017?s=200&v=4",
-         "webHook":"`https://bico.media/${tx}",
+         "webHook":"https://bico.media/{tx}",
          "hashPreview":"3bc9205b43bf8ca42856d798c2e959c18ffaaa5ff3212b11e9a07dd6cf303aa9",
          "voutPreview":"0"
       }
