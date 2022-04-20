@@ -24,7 +24,7 @@
           "name": "3D Model Viewer",
           "website": "",
           "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/GlTF_logo.svg/225px-GlTF_logo.svg.png",
-          "webHook": "https://modelviewer.dev/examples/twitter/player.html?src=https://plugins.whatsonchain.com/api/plugin/main?tx={tx}&vout={voutIndex}",
+          "webHook": "https://modelviewer.dev/examples/twitter/player.html?src=https://api.whatsonchain.com/plugin/0/main/{tx}",
           "hashPreview": "8f7444ee35e009f5dd68b87ca3d539a579b6df5750ed4da7dbc0db0595ead52d",
           "voutPreview": "0"
       }
