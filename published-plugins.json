@@ -41,6 +41,20 @@
           "webHook": "https://tokex.davidb.uk/id/{tx}",
           "hashPreview": "f3a7a81307b8c445782cf75422bd8a335329fd5e36859b4d28e377e27356202a",
           "voutPreview": ""
+      },
+      {
+          "id": "l88115ba",
+          "decoderType": "tx",
+          "networkMain": true,
+          "networkTest": false,
+          "networkSTN": false,
+          "typeSearch": false,
+          "name": "BMAP",
+          "website": "https://map.sv",
+          "iconUrl": "https://iili.io/iWj0gV.png",
+          "webHook": "https://bmapjs.com/tx/{tx}",
+          "hashPreview": "3201527adf80245b9363499f1329971d2d8efbd063cd17ce379f98cd2ab78f4c",
+          "voutPreview": ""
       }
    ]
 }
