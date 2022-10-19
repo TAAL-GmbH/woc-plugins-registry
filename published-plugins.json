@@ -27,6 +27,20 @@
           "webHook": "https://modelviewer.dev/examples/twitter/player.html?src=https://plugins.whatsonchain.com/api/plugin/main/{tx}/{voutIndex}",
           "hashPreview": "8f7444ee35e009f5dd68b87ca3d539a579b6df5750ed4da7dbc0db0595ead52d",
           "voutPreview": "0"
+      },
+      {
+          "id": "l9fiq8gk",
+          "decoderType": "tx",
+          "networkMain": true,
+          "networkTest": true,
+          "networkSTN": false,
+          "typeSearch": false,
+          "name": "Tokenized Protocol",
+          "website": "https://tokex.davidb.uk/",
+          "iconUrl": "https://tokex.davidb.uk/128x128.png",
+          "webHook": "https://tokex.davidb.uk/id/{tx}",
+          "hashPreview": "f3a7a81307b8c445782cf75422bd8a335329fd5e36859b4d28e377e27356202a",
+          "voutPreview": ""
       }
    ]
 }
