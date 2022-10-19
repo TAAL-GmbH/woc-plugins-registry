@@ -27,6 +27,20 @@
           "webHook": "https://modelviewer.dev/examples/twitter/player.html?src=https://plugins.whatsonchain.com/api/plugin/main/{tx}/{voutIndex}",
           "hashPreview": "8f7444ee35e009f5dd68b87ca3d539a579b6df5750ed4da7dbc0db0595ead52d",
           "voutPreview": "0"
+      },
+      {
+          "id": "l88115ba",
+          "decoderType": "tx",
+          "networkMain": true,
+          "networkTest": false,
+          "networkSTN": false,
+          "typeSearch": false,
+          "name": "BMAP",
+          "website": "https://map.sv",
+          "iconUrl": "https://iili.io/iWj0gV.png",
+          "webHook": "https://bmapjs.com/tx/{tx}",
+          "hashPreview": "3201527adf80245b9363499f1329971d2d8efbd063cd17ce379f98cd2ab78f4c",
+          "voutPreview": ""
       }
    ]
 }
