@@ -69,6 +69,20 @@
           "webHook": "https://stas-plugin.whatsonchain.com/{network}/tx/{tx}/{voutIndex}?pretty=true",
           "hashPreview": "77fa8e44b54b11e043c11b210da21e640ff11eedcec7e7c68539798ba039352d",
           "voutPreview": "0"
+      },
+      {
+          "id": "le3zrclh",
+          "decoderType": "tx",
+          "networkMain": true,
+          "networkTest": true,
+          "networkSTN": false,
+          "typeSearch": false,
+          "name": "sCrypt",
+          "website": "https://scrypt.io",
+          "iconUrl": "https://by-example.scrypt.io/static/media/scrypt.dcd88eddd71fe533527e.png",
+          "webHook": "https://woc.scrypt.io/{network}/{tx}/{voutIndex}",
+          "hashPreview": "8e36519052a7090b9958781a71cab9c35564de947b4050ea853d91d2b846b683",
+          "voutPreview": "0"
       }
    ]
 }
