@@ -71,8 +71,8 @@
           "voutPreview": "0"
       },
       {
-          "id": "le3zrclh",
-          "decoderType": "tx",
+          "id": "lek0rckx",
+          "decoderType": "script",
           "networkMain": true,
           "networkTest": true,
           "networkSTN": false,
@@ -80,9 +80,9 @@
           "name": "sCrypt",
           "website": "https://scrypt.io",
           "iconUrl": "https://by-example.scrypt.io/static/media/scrypt.dcd88eddd71fe533527e.png",
-          "webHook": "https://woc.scrypt.io/{network}/{tx}/{voutIndex}",
-          "hashPreview": "8e36519052a7090b9958781a71cab9c35564de947b4050ea853d91d2b846b683",
-          "voutPreview": "0"
+          "webHook": "https://woc.scrypt.io/{network}/{script}",
+          "hashPreview": "da3cd38dbf67d44005e8f0dd677f3b048ebf9620cce81e1171f25e4287fd7e7f",
+          "voutPreview": ""
       }
    ]
 }
