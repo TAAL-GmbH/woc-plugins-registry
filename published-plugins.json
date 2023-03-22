@@ -65,7 +65,7 @@
           "typeSearch": false,
           "name": "STAS Viewer",
           "website": "",
-          "iconUrl": "",
+          "iconUrl": "https://stas-plugin.whatsonchain.com/stas-logo.jpg",
           "webHook": "https://stas-plugin.whatsonchain.com/{network}/tx/{tx}/{voutIndex}?pretty=true",
           "hashPreview": "77fa8e44b54b11e043c11b210da21e640ff11eedcec7e7c68539798ba039352d",
           "voutPreview": "0"
