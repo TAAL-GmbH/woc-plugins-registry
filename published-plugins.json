@@ -24,7 +24,7 @@
           "name": "3D Model Viewer",
           "website": "",
           "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/GlTF_logo.svg/225px-GlTF_logo.svg.png",
-          "webHook": "https://modelviewer.dev/examples/twitter/player.html?src=https://plugins.whatsonchain.com/api/plugin/main/{tx}/{voutIndex}",
+          "webHook": "https://modelviewer.dev/examples/twitter/player.html?src=https://plugins.whatsonchain.com/api/plugin/main/{tx}/{voutindex}",
           "hashPreview": "8f7444ee35e009f5dd68b87ca3d539a579b6df5750ed4da7dbc0db0595ead52d",
           "voutPreview": "0"
       },
@@ -66,7 +66,7 @@
           "name": "STAS Viewer",
           "website": "",
           "iconUrl": "https://stas-plugin.whatsonchain.com/stas-logo.jpg",
-          "webHook": "https://stas-plugin.whatsonchain.com/{network}/tx/{tx}/{voutIndex}?pretty=true",
+          "webHook": "https://stas-plugin.whatsonchain.com/{network}/tx/{tx}/{voutindex}?pretty=true",
           "hashPreview": "77fa8e44b54b11e043c11b210da21e640ff11eedcec7e7c68539798ba039352d",
           "voutPreview": "0"
       },
