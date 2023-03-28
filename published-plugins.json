@@ -2,6 +2,7 @@
    "plugins":[
       {
          "id":"bicomedia_2",
+         "description":"",
          "decoderType":"data",
          "networkMain":true,
          "networkTest":true,
@@ -16,6 +17,7 @@
       },
       {
           "id": "l1y40vjs",
+          "description":"",
           "decoderType": "data",
           "networkMain": true,
           "networkTest": true,
@@ -30,6 +32,7 @@
       },
       {
           "id": "l9fiq8gk",
+          "description":"",
           "decoderType": "tx",
           "networkMain": true,
           "networkTest": true,
@@ -44,6 +47,7 @@
       },
       {
           "id": "l88115ba",
+          "description":"",
           "decoderType": "tx",
           "networkMain": true,
           "networkTest": false,
@@ -58,6 +62,7 @@
       },
       {
           "id": "ld33kfrc",
+          "description":"",
           "decoderType": "data",
           "networkMain": true,
           "networkTest": true,
@@ -72,6 +77,7 @@
       },
       {
           "id": "lek0rckx",
+          "description":"",
           "decoderType": "script",
           "networkMain": true,
           "networkTest": true,
