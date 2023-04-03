@@ -56,7 +56,7 @@
           "name": "BMAP",
           "website": "https://map.sv",
           "iconUrl": "https://iili.io/iWj0gV.png",
-          "webHook": "https://bmapjs.com/tx/{tx}",
+          "webHook": "https://b.map.sv/tx/{tx}",
           "hashPreview": "3201527adf80245b9363499f1329971d2d8efbd063cd17ce379f98cd2ab78f4c",
           "voutPreview": ""
       },
