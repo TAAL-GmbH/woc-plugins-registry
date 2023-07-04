@@ -31,6 +31,21 @@
           "voutPreview": "0"
       },
       {
+          "id": "ld33kfrc",
+          "description":"",
+          "decoderType": "data",
+          "networkMain": true,
+          "networkTest": true,
+          "networkSTN": false,
+          "typeSearch": false,
+          "name": "STAS Viewer",
+          "website": "",
+          "iconUrl": "https://stas-plugin.whatsonchain.com/stas-logo.jpg",
+          "webHook": "https://stas-plugin.whatsonchain.com/{network}/tx/{tx}/{voutindex}?pretty=true",
+          "hashPreview": "77fa8e44b54b11e043c11b210da21e640ff11eedcec7e7c68539798ba039352d",
+          "voutPreview": "0"
+      },
+      {
           "id": "l9fiq8gk",
           "description":"",
           "decoderType": "tx",
@@ -59,21 +74,6 @@
           "webHook": "https://b.map.sv/tx/{tx}",
           "hashPreview": "3201527adf80245b9363499f1329971d2d8efbd063cd17ce379f98cd2ab78f4c",
           "voutPreview": ""
-      },
-      {
-          "id": "ld33kfrc",
-          "description":"",
-          "decoderType": "data",
-          "networkMain": true,
-          "networkTest": true,
-          "networkSTN": false,
-          "typeSearch": false,
-          "name": "STAS Viewer",
-          "website": "",
-          "iconUrl": "https://stas-plugin.whatsonchain.com/stas-logo.jpg",
-          "webHook": "https://stas-plugin.whatsonchain.com/{network}/tx/{tx}/{voutindex}?pretty=true",
-          "hashPreview": "77fa8e44b54b11e043c11b210da21e640ff11eedcec7e7c68539798ba039352d",
-          "voutPreview": "0"
       },
       {
           "id": "lek0rckx",
