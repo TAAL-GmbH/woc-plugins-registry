@@ -1,0 +1,1 @@
+# woc-plugins-registry
