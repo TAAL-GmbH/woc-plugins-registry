@@ -89,6 +89,21 @@
           "webHook": "https://woc.scrypt.io/{network}/{script}",
           "hashPreview": "da3cd38dbf67d44005e8f0dd677f3b048ebf9620cce81e1171f25e4287fd7e7f",
           "voutPreview": ""
-      }
+      },
+      {
+        "id": "lpw8ity1",
+        "description":"BSV20 viewer",
+        "decoderType": "tx",
+        "networkMain": true,
+        "networkTest": true,
+        "networkSTN": false,
+        "typeSearch": false,
+        "name": "BSV20",
+        "website": "https://scrypt.io",
+        "iconUrl": "https://by-example.scrypt.io/static/media/scrypt.dcd88eddd71fe533527e.png",
+        "webHook": "https://bsv20-woc.scrypt.io/tx-decode/{network}/1sats/{tx}",
+        "hashPreview": "2c499c1c15924e04cc009ddc2efe2b16bb8492483b13f514f9689cd7effdd48e",
+        "voutPreview": ""
+    }
    ]
 }
