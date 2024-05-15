@@ -104,6 +104,22 @@
         "webHook": "https://bsv20-woc.scrypt.io/tx-decode/{network}/1sats/{tx}",
         "hashPreview": "2c499c1c15924e04cc009ddc2efe2b16bb8492483b13f514f9689cd7effdd48e",
         "voutPreview": ""
-    }
+    },
+    {
+       "id": "lvx0jvy0",
+      "description": "Tx Graph Viewer",
+       "decoderType": "tx",
+       "networkMain": true,
+       "networkTest": true,
+       "networkSTN": false,
+       "typeSearch": false,
+       "name": "WhatsInWallet.ai",
+       "website": "https://whatsinwallet.ai",
+       "iconUrl": "https://res.cloudinary.com/bbv/image/upload/v1715413190/wiw/whatsinwallet.png",
+       "webHook": "https://whatsinwallet.ai/plugin/txviewer?txid={tx}&network={network}",
+       "hashPreview": "b53e1518e84c1e4b3692e6eb0357067c680e7868be9acf8245d85ae32c7ffbbb",
+       "voutPreview": "",
+       "isDisabled": false
+}
    ]
 }
