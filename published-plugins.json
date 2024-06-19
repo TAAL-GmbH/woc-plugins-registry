@@ -121,8 +121,7 @@
        "voutPreview": "",
        "isDisabled": false
     },
-      {
-         "id":"lxdh6mwu",
+      {"id":"lxdh6mwu",
          "decoderType":"tx",
          "networkMain":true,
          "networkTest":true,
@@ -131,11 +130,11 @@
          "name":"G2C-Metadata",
          "description":"Metanet metadata extractor",
          "website":"www.gate2chain.com",
-         "iconUrl":"https://api.telepow.com:1975/favicon.ico",
-         "webHook":"https://api.telepow.com:1975/woc/metadata/{tx}/{network}",
-         "hashPreview":"fdae312c2555821545ce62ecbb75f00c30a7b3dcc2ba1bbcb7ef35368fd59549",
+         "iconUrl":"https://api.gate2chain.com:1975/favicon.ico",
+         "webHook":"https://api.gate2chain.com:1975/woc/metadata/{tx}/{network}",
+         "hashPreview":"0a4206e6894752f08a2b8a91a786c34ce88a9fb474d8c1a50c5d5b04afe875b8",
          "voutPreview":"",
-         "isDisabled":false
+         "isDisabled":false    
       }
    ]
 }
