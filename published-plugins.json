@@ -1,6 +1,22 @@
 {
    "plugins":[
       {
+         "id": "lvw6r2uh",
+         "decoderType": "tx",
+         "networkMain": true,
+         "networkTest": true,
+         "networkSTN": false,
+         "typeSearch": false,
+         "name": "MNEE (USD)",
+         "description": "MNEE TOKEN ROCK WALLET",
+         "website": "",
+         "iconUrl": "https://woc-plugin.mnee.net/mnee.svg",
+         "webHook": "https://woc-plugin.mnee.net/{network}/order/{tx}",
+         "hashPreview": "e8f6e7326cdc3816280590c6c5f5e205aaf29b51082e12cbdd868a00ab759dfe",
+         "voutPreview": "",
+         "isDisabled": false
+      },
+      {
          "id":"bicomedia_2",
          "description":"",
          "decoderType":"data",
