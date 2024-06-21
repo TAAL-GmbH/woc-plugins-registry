@@ -145,7 +145,7 @@
          "typeSearch":false,
          "name":"G2C-Metadata",
          "description":"Metanet metadata extractor",
-         "website":"www.gate2chain.com",
+         "website":"https://www.gate2chain.com",
          "iconUrl":"https://api.gate2chain.com:1975/favicon.ico",
          "webHook":"https://api.gate2chain.com:1975/woc/metadata/{tx}/{network}",
          "hashPreview":"0a4206e6894752f08a2b8a91a786c34ce88a9fb474d8c1a50c5d5b04afe875b8",
