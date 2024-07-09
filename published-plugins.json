@@ -70,9 +70,9 @@
           "networkSTN": false,
           "typeSearch": false,
           "name": "Tokenized Protocol",
-          "website": "https://tokex.davidb.uk/",
-          "iconUrl": "https://tokex.davidb.uk/128x128.png",
-          "webHook": "https://tokex.davidb.uk/id/{tx}",
+          "website": "https://decode.tokenized.com/",
+          "iconUrl": "https://decode.tokenized.com/128x128.png",
+          "webHook": "https://decode.tokenized.com/id/{tx}",
           "hashPreview": "f3a7a81307b8c445782cf75422bd8a335329fd5e36859b4d28e377e27356202a",
           "voutPreview": ""
       },
