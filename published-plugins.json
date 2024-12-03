@@ -135,6 +135,22 @@
          "hashPreview":"0a4206e6894752f08a2b8a91a786c34ce88a9fb474d8c1a50c5d5b04afe875b8",
          "voutPreview":"",
          "isDisabled":false    
-      }
+      },
+    {
+       "id": "m3y6rcto",
+       "decoderType": "tx",
+       "networkMain": true,
+       "networkTest": true,
+       "networkSTN": false,
+       "typeSearch": false,
+       "name": "Treechat BMAP viewer",
+       "description": "Allows viewing of data stored on chain using the B and MAP protocols",
+       "website": "http://bmap.treechat.ai",
+       "iconUrl": "https://treechat.ai/assets/favicon.png",
+       "webHook": "https://bmap.treechat.ai/bmap/{tx}?embedded=true",
+       "hashPreview": "e7e9677b4286b93147bf7295463b7766716979306dd442341d62e9babad330f6",
+       "voutPreview": "",
+       "isDisabled": false
+    }
    ]
 }
